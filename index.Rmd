@@ -1,5 +1,5 @@
 ---
-title: "Hello Quiz!"
+title: "Hello Baby!"
 output: 
     learnr::tutorial:
         progressive: true
